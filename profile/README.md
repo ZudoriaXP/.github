@@ -13,6 +13,7 @@ We are experts in blockchain development and project validation. Our mission is 
 
 We have developed a series of guides to assist you in installing and configuring various nodes and systems. Check out our guides:
 
+- [Setup-XION-Daemon](https://github.com/ZudoriaXP/Setup-XION-Daemon)
 - [0g Validator Node Installation Guide](https://github.com/ZudoriaXP/our-guides/blob/main/0g/0g-validator-node-guide.md)
 - [0g Storage KV Node Installation Guide](https://github.com/ZudoriaXP/our-guides/blob/main/0g/0g-storage-kv-node.md)
 - [Warden Node Installation Guide](https://github.com/ZudoriaXP/our-guides/blob/main/warden/warden-node-installation-guide.md)
